@@ -1,0 +1,12 @@
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.pdb
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.xml
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbprojAssemblyReference.cache
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Form1.resources
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Resources.resources
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbproj.GenerateResource.cache
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.exe
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.xml
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.pdb
