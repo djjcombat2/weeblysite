@@ -1,0 +1,24 @@
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.xml
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbprojAssemblyReference.cache
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Resources.resources
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbproj.GenerateResource.cache
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbproj.CoreCompileInputs.cache
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.xml
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb
+C:\Users\Dakota\source\repos\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Form1.resources
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.xml
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbprojAssemblyReference.cache
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Form1.resources
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Resources.resources
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbproj.GenerateResource.cache
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.vbproj.CoreCompileInputs.cache
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.xml
+C:\Users\Dakota\Documents\Winter 2019\CIS133VB\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb
